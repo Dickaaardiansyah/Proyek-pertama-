@@ -143,6 +143,7 @@ header.navbar-container .nav-list li:hover a {
     padding: 20px;
     display: flex;
     gap: 1.5rem;
+    flex-wrap: wrap;
   }
 
   #content {
